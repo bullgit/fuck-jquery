@@ -27,3 +27,11 @@ code {
 footer {
   text-align: center;
 }
+
+a {
+  color: #1393d5;
+}
+
+a:visited {
+  color: #0d6896;
+}
