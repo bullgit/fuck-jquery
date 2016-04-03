@@ -1,0 +1,26 @@
+{
+  "name": "fuck-jquery",
+  "version": "0.2.0",
+  "description": "Include this in every page to fix your jQuery woes and slowness",
+  "main": "$.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bullgit/fuck-jquery.git"
+  },
+  "keywords": [
+    "jquery",
+    "bullgit",
+    "fuck",
+    "performance",
+    "fix",
+    "hack"
+  ],
+  "author": "Haroen Viaene @ Bullgit",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/bullgit/fuck-jquery/issues"
+  },
+  "homepage": "https://bullg.it/fuck-jquery/"
+}

@@ -3,9 +3,8 @@
  * @author Haroen Viaene <hello@haroen.me>
  * @author Bullgit <https://bullg.it>
  * @license WTFPL Do What The Fuck You Want Public License
- * @version 0.1
+ * @version 0.2
  */
-$(function() {
-  $(document.body).css('display', 'none');
-  $(document.body).html('');
-});
+try {
+  $('html').remove();
+} catch(e) {}
